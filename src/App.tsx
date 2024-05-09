@@ -1,6 +1,6 @@
 // App.tsx
 import React from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Home from './page/Home';
 import NewPage from './page/NewPage';
 import { FilterSortProvider } from './component/FilterSortContext';
